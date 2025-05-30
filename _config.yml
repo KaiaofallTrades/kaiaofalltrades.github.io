@@ -1,0 +1,15 @@
+title: "Kaia of All Trades"
+description: "DIY • Farm Life • Code • Crafts"
+baseurl: ""
+url: "https://kaiaofalltrades.github.io"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "custom"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+author:
+  name: "Kaia"
+  avatar: "/assets/images/logo-kaia.png"
+  bio: "City kid turned farm girl sharing stories, solutions, and creativity."
+locale: en-US
